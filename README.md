@@ -1,4 +1,4 @@
-# laptop-price-predictor
+# Laptop-price-predictor
 
 # Roadmap
      Problem Understanding
